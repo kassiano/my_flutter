@@ -18,7 +18,7 @@ publishing {
             groupId 'com.kassiano'
             artifactId getArtificatId()
             version getVersionName()
-            artifact("${defaultRepoPath()}/com/kassiano/my_flutter/flutter_release/1.0/flutter_release-1.0.aar")
+            artifact("${defaultRepoPath()}/br/com/kassiano/my_flutter/flutter_release/1.0/flutter_release-1.0.aar")
         }
     }
 
